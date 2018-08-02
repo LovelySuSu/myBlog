@@ -6,9 +6,7 @@ export const HeaderWrapper = styled.div`
     height: 56px;
     border-bottom: 1px solid #f0f0f0 
 `
-export const Logo = styled.a.attrs({
-    href:'/'
-})`
+export const Logo = styled.div`
     position: absolute;
     height:56px;
     display:block;
@@ -95,6 +93,7 @@ export const NavSearch = styled.input.attrs({
 `
 export const SearchInfo = styled.div`
     position:absolute;
+    background:#fff;
     left:25px;
     top:56px;
     width:240px;

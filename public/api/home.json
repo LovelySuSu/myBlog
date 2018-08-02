@@ -1,0 +1,63 @@
+{
+	"success": true,
+	"data": {
+		"topicList": [{
+			"id":"1",
+			"imgUrl":"//upload.jianshu.io/collections/images/95/1.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64",
+			"title":"故事"
+		},{
+			"id":"2",
+			"imgUrl":"//upload.jianshu.io/collections/images/76/12.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64",
+			"title":"自然科普"
+		},{
+			"id":"3",
+			"imgUrl":"//upload.jianshu.io/collections/images/4/sy_20091020135145113016.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64",
+			"title":"读书"
+		},{
+			"id":"4",
+			"imgUrl":"//upload.jianshu.io/collections/images/283250/%E6%BC%AB%E7%94%BB%E4%B8%93%E9%A2%98.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64",
+			"title":"手绘"
+		},{
+			"id":"5",
+			"imgUrl":"//upload.jianshu.io/collections/images/14/6249340_194140034135_2.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/64/h/64",
+			"title":"@IT·互联网"
+		}],
+		"articleList": [{
+			"id": 1,
+			"title": "<script>在HTML文档中位置",
+			"desc": "从大红书中学习到的<script>的位置对页面渲染的影响 HTML文档解释方式： 按照HTML文档中顺序依次从上到下解释 解释过程中遇到 就会异...",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/4786780-2ee3b46edba7639c.png?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}, {
+			"id": 2,
+			"title": "胡歌12年后首谈车祸：既然活下来了，就不能白白活着",
+			"desc": "文/麦大人 01 胡歌又刷屏了。 近日他上了《朗读者》，而这一期的主题是“生命”，他用磁性的嗓音，朗读了一段《哈姆雷特》中的经典独白，相当震撼：...",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/2259045-2986b9be86b01f63?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}, {
+			"id": 3,
+			"title": "姥姥和她的孩子们",
+			"desc": "很早以前的农村即没有高楼也没有摩天大厦，冬天的夜晚，小西北风就如同一位顶级的魔术大师，嘶嘶的风声里夹杂着尖锐的哨音。 冷风变幻莫测般的打着旋...",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/7805492-d1cf77d9a6384700.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}, {
+			"id": 4,
+			"title": "陪酒小姐的爱情",
+			"desc": "每个人的一生都会遇见一些人，也会不停的和一些人说再见，从陌生到熟悉，从熟悉再回陌生，从臭味相投到分道扬镳，从相见恨晚到不如不见…        ...",
+			"imgUrl": "//upload-images.jianshu.io/upload_images/13350428-973d41734023b597.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/300/h/240"
+		}],
+		"recommendList": [{
+			"id": 1,
+			"imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-3-7123fd94750759acf7eca05b871e9d17.png"
+		}, {
+			"id": 2,
+			"imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-4-b70da70d679593510ac93a172dfbaeaa.png"
+		},{
+			"id": 3,
+			"imgUrl": "http:////cdn2.jianshu.io/assets/web/banner-s-7-1a0222c91694a1f38e610be4bf9669be.png"
+		},{
+			"id": 4,
+			"imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-5-4ba25cf5041931a0ed2062828b4064cb.png"
+		},{
+			"id": 5,
+			"imgUrl": "http://cdn2.jianshu.io/assets/web/banner-s-6-c4d6335bfd688f2ca1115b42b04c28a7.png"
+		}]
+	}
+}
